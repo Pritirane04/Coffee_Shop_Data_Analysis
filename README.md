@@ -1,6 +1,7 @@
 # Coffee_Shop_Data_Analysis
 
 Project Overview
+
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of a Coffee Shop. This project explores customer purchasing patterns, peak operational times, and product performance to drive strategic business decisions.
 
 Key Business Questions Addressed
@@ -24,9 +25,11 @@ Average Sale per Person: $3.23
 Top 10 Products: Highlighting leaders like Barista Espresso and Brewed Chai Tea.
 Sales by Hour: Identifying peak activity between 8:00 AM and 10:00 AM.
 Sales by Month: Visualizing the growth trend from January through June.
+
 Tools Used
 Data Visualization: Interactive Dashboard (Excel)
 Analysis: Sales Trend Analysis, Product Categorization, and Geographic Performance Mapping
+
 Insights
 Peak Times: Sales activity peaks significantly in the morning hours, suggesting a need for optimal staffing during this window.
 Location Highlights: Performance is tracked across Astoria, Hell's Kitchen, and Lower Manhattan to identify geographic strengths.
